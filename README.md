@@ -8,9 +8,9 @@ important and you are most likely going to run into them in your graduate studie
 > * Coding Styles (make your code look tidy & easy to understand)
 > * Compilers (how do they work)
 > * CPU, RAM & GPU (how do they work)
-> * Debugging on runtime
-> * Debugging with IDEs
-> * Development Containers (Docker and so on)
+> * Debugging on Runtime
+> * Debugging With IDEs
+> * Development Containers (Docker and so on...)
 > * Git & Git Commands
 > * GitHub (GitLab and so on...)
 > * Hardware Basics
