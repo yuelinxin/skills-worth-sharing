@@ -57,4 +57,4 @@ important and you are most likely going to run into them in your graduate studie
 > * UML Diagrams (how to use them)
 
 
-**Please note that this skill list do not contain the things that most universities are offering in their curriculum.**
+**Please note that this skill list do not contain the items that most universities are offering in their curriculum.**
