@@ -1,9 +1,11 @@
-# SkillsWorthSharing
+# Skills Worth Sharing
+> For undergraduate & pre-employment level learners.    
+
 All the basics that you need to know for Computer Science &amp; Software Engineering learners.    
 These basics are **primarily the things that they don't teach you in universities**, but the majority of them are 
 important and you are most likely going to run into them in your graduate studies or your future career.
 
-## Undergraduate & Pre-employment learners (alphabetically)
+## Skills List (alphabetical order)
 > * Adaptive Web Design (front-end)
 > * Coding Styles (make your code look tidy & easy to understand)
 > * Compilers (how do they work)
@@ -25,5 +27,34 @@ important and you are most likely going to run into them in your graduate studie
 > * Web Services (servers, proxies, HTTP requests, and so on...)
 > * Web Security (spams, attacks, and so on...)
 
+## Skills List (by category)
+#### Web
+> * Adaptive Web Design (front-end)
+> * Web Services (servers, proxies, HTTP requests, and so on...)
+> * Web Security (spams, attacks, and so on...)
+#### System Basics
+> * Compilers (how do they work)
+> * Package Management Software (pip, homebrew, snap, yum, and so on...)
+> * Unix-like System CLIs: bash, zsh (Linux distros & macOS)
+#### Coding
+> * Coding Styles (make your code look tidy & easy to understand)
+> * Debugging on Runtime
+> * Debugging With IDEs
+#### Git
+> * Git & Git Commands
+> * GitHub (GitLab and so on...)
+#### Professional Software Development
+> * Development Containers (Docker and so on...)
+> * Modern Software Development (DevOps and so on...)
+> * Open Source Communities (guidelines and so on...)
+> * Team Coding Collaboration (pipelining, code review and so on...)
+#### Hardware
+> * CPU, RAM & GPU (how do they work)
+> * Hardware Basics
+#### Other Skills
+> * LaTeX (TeX)
+> * Machine Learning Basics
+> * UML Diagrams (how to use them)
 
-**Please note that this list do not contain the things that most universities are offering in their curriculum.**
+
+**Please note that this skill list do not contain the things that most universities are offering in their curriculum.**
