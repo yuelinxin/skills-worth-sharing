@@ -20,7 +20,7 @@ important and you are most likely going to run into them in your graduate studie
 > * Machine Learning Basics
 > * Modern Software Development (DevOps and so on...)
 > * Open Source Communities (guidelines and so on...)
-> * Package Management Software (pip, homebrew, snap, yum, and so on...)
+> * Package Management Software (pip, brew, snap, npm, yum, and so on...)
 > * Team Coding Collaboration (pipelining, code review and so on...)
 > * UML Diagrams (how to use them)
 > * Unix-like System CLIs: bash, zsh (Linux distros & macOS)
@@ -34,7 +34,7 @@ important and you are most likely going to run into them in your graduate studie
 > * Web Security (spams, attacks, and so on...)
 #### System Basics
 > * Compilers (how do they work)
-> * Package Management Software (pip, homebrew, snap, yum, and so on...)
+> * Package Management Software (pip, brew, snap, npm, yum, and so on...)
 > * Unix-like System CLIs: bash, zsh (Linux distros & macOS)
 #### Coding
 > * Coding Styles (make your code look tidy & easy to understand)
