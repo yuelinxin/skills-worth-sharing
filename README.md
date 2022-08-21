@@ -21,9 +21,11 @@ important and you are most likely going to run into them in your graduate studie
 > * Modern Software Development (DevOps and so on...)
 > * Open Source Communities (guidelines and so on...)
 > * Package Management Software (pip, brew, snap, npm, yum, and so on...)
+> * Regular Expression (how to use)
 > * Team Coding Collaboration (pipelining, code review and so on...)
 > * UML Diagrams (how to use them)
 > * Unix-like System CLIs: bash, zsh (Linux distros & macOS)
+> * Vim (how to use)
 > * Web Services (servers, proxies, HTTP requests, and so on...)
 > * Web Security (spams, attacks, and so on...)
 
@@ -36,10 +38,12 @@ important and you are most likely going to run into them in your graduate studie
 > * Compilers (how do they work)
 > * Package Management Software (pip, brew, snap, npm, yum, and so on...)
 > * Unix-like System CLIs: bash, zsh (Linux distros & macOS)
+> * Vim (how to use)
 #### Coding
 > * Coding Styles (make your code look tidy & easy to understand)
 > * Debugging on Runtime
 > * Debugging With IDEs
+> * Regular Expression (how to use)
 #### Git
 > * Git & Git Commands
 > * GitHub (GitLab and so on...)
