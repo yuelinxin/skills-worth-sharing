@@ -28,12 +28,14 @@ important and you are most likely going to run into them in your graduate studie
 > * Vim (how to use)
 > * Web Services (servers, proxies, HTTP requests, and so on...)
 > * Web Security (spams, attacks, and so on...)
+> * Web System Design Basics (Caching, Load Balancing, and so on...)
 
 ## Skills List (by category)
 #### Web
 > * Adaptive Web Design (front-end)
 > * Web Services (servers, proxies, HTTP requests, and so on...)
 > * Web Security (spams, attacks, and so on...)
+> * Web System Design Basics (Caching, Load Balancing, and so on...)
 #### System Basics
 > * Compilers (how do they work)
 > * Package Management Software (pip, brew, snap, npm, yum, and so on...)
